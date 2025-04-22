@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.4.19)  22 APR 2025 14:57
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.4.19)  22 APR 2025 15:02
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -157,7 +157,14 @@ Package: titlesec 2025/01/04 v2.17 Sectioning titles
 tex.def
 File: l3backend-pdftex.def 2025-03-14 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count199
-) (main.aux (Title/titlepage.aux) (Certi/certificate.aux))
+) (main.aux (Title/titlepage.aux) (Certi/certificate.aux)
+(Ack/acknowledgement.aux) (Ch1/chapter1.aux) (Ch2/chapter2.aux)
+(Ch3/chapter3.aux) (Ch4/chapter4.aux) (Ch5/chapter5.aux
+
+LaTeX Warning: Label `abc' multiply defined.
+
+) (Ch6/chapter6.aux) (Ch7/chapter7.aux) (Ch8/chapter8.aux)
+(Appendix/appendix.aux) (Ref/References.aux))
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
@@ -364,14 +371,14 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
  (Ch2/chapter2.tex
 Chapter 2.
 
-Underfull \hbox (badness 10000) in paragraph at lines 22--25
+Underfull \hbox (badness 10000) in paragraph at lines 21--24
 
  []
 
 <Ch2/prototype.png, id=47, 504.38437pt x 361.35pt>
 File: Ch2/prototype.png Graphic file (type png)
 <use Ch2/prototype.png>
-Package pdftex.def Info: Ch2/prototype.png  used on input line 30.
+Package pdftex.def Info: Ch2/prototype.png  used on input line 29.
 (pdftex.def)             Requested size: 403.50804pt x 289.0804pt.
 [6
 
@@ -379,12 +386,12 @@ Package pdftex.def Info: Ch2/prototype.png  used on input line 30.
 
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 40--41
+Underfull \hbox (badness 10000) in paragraph at lines 39--40
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 49--63
+Underfull \hbox (badness 10000) in paragraph at lines 48--62
 
  []
 
@@ -396,19 +403,19 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [7 <./Ch2/prototype.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 66--67
+Underfull \hbox (badness 10000) in paragraph at lines 65--66
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 68--69
+Underfull \hbox (badness 10000) in paragraph at lines 67--68
 
  []
 
 <Ch2/mvc.png, id=56, 399.74344pt x 226.59656pt>
 File: Ch2/mvc.png Graphic file (type png)
 <use Ch2/mvc.png>
-Package pdftex.def Info: Ch2/mvc.png  used on input line 70.
+Package pdftex.def Info: Ch2/mvc.png  used on input line 69.
 (pdftex.def)             Requested size: 399.74245pt x 226.596pt.
 )
 
@@ -755,14 +762,14 @@ L3 programming layer <2024-01-04>
  ***********
 
 
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 3842 strings out of 474484
- 70787 string characters out of 5743565
+ 3876 strings out of 474484
+ 72488 string characters out of 5743565
  1957542 words of memory out of 5000000
- 26020 multiletter control sequences out of 15000+600000
+ 26032 multiletter control sequences out of 15000+600000
  566555 words of font info for 63 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  72i,13n,79p,924b,780s stack positions out of 10000i,1000n,20000p,200000b,200000s
