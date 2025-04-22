@@ -15,7 +15,7 @@
 \contentsline {section}{\numberline {2.2}Software Process and Development}{6}{}%
 \contentsline {section}{\numberline {2.3}Scope of Proposed System}{7}{}%
 \contentsline {section}{\numberline {2.4}Technical Specification}{7}{}%
-\contentsline {subsection}{\numberline {2.4.1}Codeignitor Framework}{8}{}%
+\contentsline {subsection}{\numberline {2.4.1}Codeignitor Framework}{7}{}%
 \contentsline {chapter}{\numberline {3}Feasibility Study}{9}{}%
 \contentsline {section}{\numberline {3.1}Introduction}{9}{}%
 \contentsline {section}{\numberline {3.2}Economical Feasibility}{9}{}%
@@ -29,26 +29,26 @@
 \contentsline {section}{\numberline {5.1}Tools of data flow strategy}{12}{}%
 \contentsline {section}{\numberline {5.2}Use Case Diagram}{13}{}%
 \contentsline {subsubsection}{Usecase Diagram For Admin}{13}{}%
-\contentsline {subsubsection}{Usecase Diagram For Other Users.}{14}{}%
-\contentsline {section}{\numberline {5.3}Entity Relationship Diagram}{15}{}%
-\contentsline {subsubsection}{ERD For Chemist.}{15}{}%
-\contentsline {subsubsection}{ERD For doctor.}{15}{}%
-\contentsline {section}{\numberline {5.4}Data Flow Diagram}{16}{}%
-\contentsline {chapter}{\numberline {6}Detailed Design}{17}{}%
-\contentsline {section}{\numberline {6.1}Data Dictionary}{17}{}%
-\contentsline {section}{\numberline {6.2}Input and output Design}{17}{}%
-\contentsline {subsection}{\numberline {6.2.1}Admin}{17}{}%
-\contentsline {section}{\numberline {6.3}Database structure}{20}{}%
-\contentsline {chapter}{\numberline {7}Testing}{26}{}%
-\contentsline {section}{\numberline {7.1}Introduction}{26}{}%
-\contentsline {section}{\numberline {7.2}White Box Testing}{26}{}%
-\contentsline {section}{\numberline {7.3}Black Box Testing}{26}{}%
-\contentsline {section}{\numberline {7.4}Validation Testing}{27}{}%
-\contentsline {section}{\numberline {7.5}GUI Testing}{27}{}%
-\contentsline {chapter}{\numberline {8}Concluding Remarks}{28}{}%
-\contentsline {section}{\numberline {8.1}Strengths of System}{28}{}%
-\contentsline {section}{\numberline {8.2}Limitations of system}{28}{}%
-\contentsline {section}{\numberline {8.3}Scope for future development}{28}{}%
-\contentsline {section}{\numberline {8.4}Conclusion}{29}{}%
-\contentsline {chapter}{Appendix}{30}{}%
-\contentsline {chapter}{References}{31}{}%
+\contentsline {subsubsection}{Usecase Diagram For Other Users.}{13}{}%
+\contentsline {section}{\numberline {5.3}Entity Relationship Diagram}{13}{}%
+\contentsline {subsubsection}{ERD For Chemist.}{13}{}%
+\contentsline {subsubsection}{ERD For doctor.}{13}{}%
+\contentsline {section}{\numberline {5.4}Data Flow Diagram}{13}{}%
+\contentsline {chapter}{\numberline {6}Detailed Design}{15}{}%
+\contentsline {section}{\numberline {6.1}Data Dictionary}{15}{}%
+\contentsline {section}{\numberline {6.2}Input and output Design}{15}{}%
+\contentsline {subsection}{\numberline {6.2.1}Admin}{15}{}%
+\contentsline {section}{\numberline {6.3}Database structure}{18}{}%
+\contentsline {chapter}{\numberline {7}Testing}{24}{}%
+\contentsline {section}{\numberline {7.1}Introduction}{24}{}%
+\contentsline {section}{\numberline {7.2}White Box Testing}{24}{}%
+\contentsline {section}{\numberline {7.3}Black Box Testing}{24}{}%
+\contentsline {section}{\numberline {7.4}Validation Testing}{25}{}%
+\contentsline {section}{\numberline {7.5}GUI Testing}{25}{}%
+\contentsline {chapter}{\numberline {8}Concluding Remarks}{26}{}%
+\contentsline {section}{\numberline {8.1}Strengths of System}{26}{}%
+\contentsline {section}{\numberline {8.2}Limitations of system}{26}{}%
+\contentsline {section}{\numberline {8.3}Scope for future development}{26}{}%
+\contentsline {section}{\numberline {8.4}Conclusion}{27}{}%
+\contentsline {chapter}{Appendix}{28}{}%
+\contentsline {chapter}{References}{29}{}%
