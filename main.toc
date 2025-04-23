@@ -20,7 +20,7 @@
 \contentsline {section}{\numberline {3.1}Introduction}{9}{}%
 \contentsline {section}{\numberline {3.2}Economical Feasibility}{9}{}%
 \contentsline {section}{\numberline {3.3}Operational Feasibility}{10}{}%
-\contentsline {section}{\numberline {3.4}Financial and Economical Feasibility}{10}{}%
+\contentsline {section}{\numberline {3.4}Technical Feasibility}{10}{}%
 \contentsline {chapter}{\numberline {4}Proposed System}{11}{}%
 \contentsline {section}{\numberline {4.1}Proposed System}{11}{}%
 \contentsline {section}{\numberline {4.2}User Privileges}{11}{}%
