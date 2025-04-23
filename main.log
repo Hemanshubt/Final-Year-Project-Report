@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.4.19)  23 APR 2025 11:29
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.4.19)  23 APR 2025 13:34
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -370,5 +370,470 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
  (Ch2/chapter2.tex
 Chapter 2.
+<Ch2/Prototype1.png, id=47, 201.75375pt x 532.99126pt>
+File: Ch2/Prototype1.png Graphic file (type png)
+<use Ch2/Prototype1.png>
+Package pdftex.def Info: Ch2/Prototype1.png  used on input line 30.
+(pdftex.def)             Requested size: 161.40321pt x 426.39359pt.
+[6
 
-Underfull \hbox (
+
+
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 40--41
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--64
+
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[7 <./Ch2/Prototype1.png>]
+
+! Package xcolor Error: Undefined color `techblue'.
+
+See the xcolor package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.83 ...em \textbf{\textcolor{techblue}{React.js}}
+                                                  : A JavaScript library for...
+
+? 
+
+! Package xcolor Error: Undefined color `techblue'.
+
+See the xcolor package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.85 ...\item \textbf{\textcolor{techblue}{Redux}}
+                                                  : State management tool to...
+
+? 
+
+! Package xcolor Error: Undefined color `techblue'.
+
+See the xcolor package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.87 ...em \textbf{\textcolor{techblue}{Chart.js}}
+                                                  : Lightweight library for ...
+
+? 
+
+! Package xcolor Error: Undefined color `techblue'.
+
+See the xcolor package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.89 ...\item \textbf{\textcolor{techblue}{D3.js}}
+                                                  : Powerful library for cus...
+
+? 
+
+! Package xcolor Error: Undefined color `techblue'.
+
+See the xcolor package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.91 ...tem \textbf{\textcolor{techblue}{MongoDB}}
+                                                  : NoSQL database for flexi...
+
+? 
+
+! Package xcolor Error: Undefined color `techblue'.
+
+See the xcolor package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.93 ...f{\textcolor{techblue}{Styled-components}}
+                                                  : CSS-in-JS library for sc...
+
+? 
+
+! Package xcolor Error: Undefined color `techblue'.
+
+See the xcolor package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.95 ...tem \textbf{\textcolor{techblue}{Node.js}}
+                                                  : JavaScript runtime for s...
+
+? 
+
+! Package xcolor Error: Undefined color `techblue'.
+
+See the xcolor package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.97 ... \textbf{\textcolor{techblue}{Express.js}}
+                                                  : Minimalist framework for...
+
+? 
+)
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[8]
+\openout2 = `Ch3/chapter3.aux'.
+
+ (Ch3/chapter3.tex
+Chapter 3.
+[9
+
+
+
+
+])
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[10]
+\openout2 = `Ch4/chapter4.aux'.
+
+ (Ch4/chapter4.tex
+Chapter 4.
+
+Underfull \hbox (badness 10000) in paragraph at lines 5--9
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 11--14
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--19
+
+ []
+
+) [11
+
+
+
+
+]
+\openout2 = `Ch5/chapter5.aux'.
+
+ (Ch5/chapter5.tex
+Chapter 5.
+<Diag/usecaseadmin.png, id=70, 478.78876pt x 431.36156pt>
+File: Diag/usecaseadmin.png Graphic file (type png)
+<use Diag/usecaseadmin.png>
+Package pdftex.def Info: Diag/usecaseadmin.png  used on input line 24.
+(pdftex.def)             Requested size: 335.14984pt x 301.95103pt.
+[12
+
+
+
+
+]
+<Diag/usecaseall.png, id=74, 511.9125pt x 636.12656pt>
+File: Diag/usecaseall.png Graphic file (type png)
+<use Diag/usecaseall.png>
+Package pdftex.def Info: Diag/usecaseall.png  used on input line 28.
+(pdftex.def)             Requested size: 409.53056pt x 508.90193pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[13 <./Diag/usecaseadmin.png>]
+<Diag/ERDchemist.png, id=80, 363.60844pt x 256.70906pt>
+File: Diag/ERDchemist.png Graphic file (type png)
+<use Diag/ERDchemist.png>
+Package pdftex.def Info: Diag/ERDchemist.png  used on input line 48.
+(pdftex.def)             Requested size: 254.52417pt x 179.6951pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[14 <./Diag/usecaseall.png>]
+<Diag/ERDdoctor.png, id=85, 500.62032pt x 436.63126pt>
+File: Diag/ERDdoctor.png Graphic file (type png)
+<use Diag/ERDdoctor.png>
+Package pdftex.def Info: Diag/ERDdoctor.png  used on input line 52.
+(pdftex.def)             Requested size: 350.43182pt x 305.63979pt.
+<Diag/d1.png, id=86, 465.99094pt x 405.76593pt>
+File: Diag/d1.png Graphic file (type png)
+<use Diag/d1.png>
+Package pdftex.def Info: Diag/d1.png  used on input line 70.
+(pdftex.def)             Requested size: 419.38795pt x 365.18596pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[15 <./Diag/ERDchemist.png> <./Diag/ERDdoctor.png>])
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[16 <./Diag/d1.png>]
+\openout2 = `Ch6/chapter6.aux'.
+
+ (Ch6/chapter6.tex
+Chapter 6.
+[17
+
+
+
+
+]
+<Admin/login.jpg, id=96, 1023.825pt x 578.16pt>
+File: Admin/login.jpg Graphic file (type jpg)
+<use Admin/login.jpg>
+Package pdftex.def Info: Admin/login.jpg  used on input line 21.
+(pdftex.def)             Requested size: 398.33717pt x 256.06737pt.
+<Admin/dashboard.png, id=97, 1023.825pt x 578.16pt>
+File: Admin/dashboard.png Graphic file (type png)
+<use Admin/dashboard.png>
+Package pdftex.def Info: Admin/dashboard.png  used on input line 29.
+(pdftex.def)             Requested size: 398.33717pt x 256.06737pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[18 <./Admin/login.jpg> <./Admin/dashboard.png>]
+<Admin/viewusers.jpg, id=101, 1023.825pt x 578.16pt>
+File: Admin/viewusers.jpg Graphic file (type jpg)
+<use Admin/viewusers.jpg>
+Package pdftex.def Info: Admin/viewusers.jpg  used on input line 35.
+(pdftex.def)             Requested size: 398.33717pt x 256.06737pt.
+<Admin/addusers.jpg, id=102, 1023.825pt x 578.16pt>
+File: Admin/addusers.jpg Graphic file (type jpg)
+<use Admin/addusers.jpg>
+Package pdftex.def Info: Admin/addusers.jpg  used on input line 43.
+(pdftex.def)             Requested size: 398.33717pt x 256.06737pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[19 <./Admin/viewusers.jpg> <./Admin/addusers.jpg>]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[20]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[21]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[22]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[23]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[24])
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[25]
+\openout2 = `Ch7/chapter7.aux'.
+
+ (Ch7/chapter7.tex
+Chapter 7.
+
+Underfull \hbox (badness 10000) in paragraph at lines 5--7
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 11--12
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--19
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 26--27
+
+ []
+
+[26
+
+
+
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 32--33
+
+ []
+
+)
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[27]
+\openout2 = `Ch8/chapter8.aux'.
+
+ (Ch8/chapter8.tex
+Chapter 8.
+[28
+
+
+
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 34--36
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--40
+
+ []
+
+)
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[29]
+\openout2 = `Appendix/appendix.aux'.
+
+ (Appendix/appendix.tex [30
+
+
+
+
+])
+\openout2 = `Ref/References.aux'.
+
+ (Ref/References.tex
+Underfull \hbox (badness 10000) in paragraph at lines 10--16
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 16--21
+
+ []
+
+) [31
+
+
+
+
+] (main.aux (Title/titlepage.aux) (Certi/certificate.aux)
+(Ack/acknowledgement.aux) (Ch1/chapter1.aux) (Ch2/chapter2.aux)
+(Ch3/chapter3.aux) (Ch4/chapter4.aux) (Ch5/chapter5.aux) (Ch6/chapter6.aux)
+(Ch7/chapter7.aux) (Ch8/chapter8.aux) (Appendix/appendix.aux)
+(Ref/References.aux))
+ ***********
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-04>
+ ***********
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 3869 strings out of 474484
+ 72370 string characters out of 5743565
+ 1957542 words of memory out of 5000000
+ 26025 multiletter control sequences out of 15000+600000
+ 566555 words of font info for 63 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 72i,13n,79p,924b,780s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\heman\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm
+1200.pk><C:/Users/heman/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfon
+ts/cm/cmbx10.pfb><C:/Users/heman/AppData/Local/Programs/MiKTeX/fonts/type1/publ
+ic/amsfonts/cm/cmbx12.pfb><C:/Users/heman/AppData/Local/Programs/MiKTeX/fonts/t
+ype1/public/amsfonts/cm/cmbxti10.pfb><C:/Users/heman/AppData/Local/Programs/MiK
+TeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/heman/AppData/Local/Pro
+grams/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/heman/AppData/L
+ocal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/heman/A
+ppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on main.pdf (37 pages, 2349860 bytes).
+PDF statistics:
+ 181 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 66 words of extra memory for PDF output out of 10000 (max. 10000000)
+
