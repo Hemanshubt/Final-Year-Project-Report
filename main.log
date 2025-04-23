@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.4.19)  23 APR 2025 14:14
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.4.19)  23 APR 2025 14:42
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -546,10 +546,15 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
  (Ch5/chapter5.tex
 Chapter 5.
+
+Underfull \hbox (badness 10000) in paragraph at lines 5--22
+
+ []
+
 <Diag/usecaseadmin.png, id=71, 478.78876pt x 431.36156pt>
 File: Diag/usecaseadmin.png Graphic file (type png)
 <use Diag/usecaseadmin.png>
-Package pdftex.def Info: Diag/usecaseadmin.png  used on input line 24.
+Package pdftex.def Info: Diag/usecaseadmin.png  used on input line 38.
 (pdftex.def)             Requested size: 335.14984pt x 301.95103pt.
 [13
 
@@ -560,7 +565,7 @@ Package pdftex.def Info: Diag/usecaseadmin.png  used on input line 24.
 <Diag/usecaseall.png, id=76, 511.9125pt x 636.12656pt>
 File: Diag/usecaseall.png Graphic file (type png)
 <use Diag/usecaseall.png>
-Package pdftex.def Info: Diag/usecaseall.png  used on input line 28.
+Package pdftex.def Info: Diag/usecaseall.png  used on input line 42.
 (pdftex.def)             Requested size: 409.53056pt x 508.90193pt.
 
 
@@ -574,7 +579,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 <Diag/ERDchemist.png, id=81, 363.60844pt x 256.70906pt>
 File: Diag/ERDchemist.png Graphic file (type png)
 <use Diag/ERDchemist.png>
-Package pdftex.def Info: Diag/ERDchemist.png  used on input line 48.
+Package pdftex.def Info: Diag/ERDchemist.png  used on input line 62.
 (pdftex.def)             Requested size: 254.52417pt x 179.6951pt.
 
 
@@ -588,12 +593,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 <Diag/ERDdoctor.png, id=86, 500.62032pt x 436.63126pt>
 File: Diag/ERDdoctor.png Graphic file (type png)
 <use Diag/ERDdoctor.png>
-Package pdftex.def Info: Diag/ERDdoctor.png  used on input line 52.
+Package pdftex.def Info: Diag/ERDdoctor.png  used on input line 66.
 (pdftex.def)             Requested size: 350.43182pt x 305.63979pt.
 <Diag/d1.png, id=87, 465.99094pt x 405.76593pt>
 File: Diag/d1.png Graphic file (type png)
 <use Diag/d1.png>
-Package pdftex.def Info: Diag/d1.png  used on input line 70.
+Package pdftex.def Info: Diag/d1.png  used on input line 84.
 (pdftex.def)             Requested size: 419.38795pt x 365.18596pt.
 
 
@@ -838,7 +843,7 @@ LaTeX Warning: There were multiply-defined labels.
 Here is how much of TeX's memory you used:
  3870 strings out of 474484
  72375 string characters out of 5743565
- 1957542 words of memory out of 5000000
+ 1958542 words of memory out of 5000000
  26026 multiletter control sequences out of 15000+600000
  566555 words of font info for 63 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -850,7 +855,7 @@ ic/amsfonts/cm/cmbx12.pfb><C:/Users/heman/AppData/Local/Programs/MiKTeX/fonts/t
 ype1/public/amsfonts/cm/cmbxti10.pfb><C:/Users/heman/AppData/Local/Programs/MiK
 TeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/heman/AppData/Local/Prog
 rams/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on main.pdf (38 pages, 2329371 bytes).
+Output written on main.pdf (38 pages, 2329840 bytes).
 PDF statistics:
  174 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
